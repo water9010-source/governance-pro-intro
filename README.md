@@ -1,5 +1,7 @@
 # Governance System Pro｜治理系統 Pro
 
+🎬 **Video / 影片介紹：https://www.facebook.com/reel/1475405481214925**
+
 **A seven-step check workflow for Claude Code and Codex — work your AI finishes always gets checked.**
 **讓 Claude Code／Codex 做完的事，一定有人確認。**
 
